@@ -1,7 +1,7 @@
 import React, {useState}from 'react';
 import { AppBar, Box, Divider, Drawer, IconButton, Toolbar, Typography } from '@mui/material'
 import FastfoodIcon from '@mui/icons-material/Fastfood';
-import RestaurantMenuIcon from '@mui/icons-material/RestaurantMenu';
+import MenuIcon from '@mui/icons-material/Menu';
 import { Link } from 'react-router-dom';
 import '../../styles/NavStyle.css';
 
@@ -59,7 +59,7 @@ const Navigation = () => {
               }}
               onClick = {handleDrawerToggle}
               >
-            <RestaurantMenuIcon />
+            <MenuIcon />
             </IconButton>
           <Typography 
           color={'goldenrod'} 

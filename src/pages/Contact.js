@@ -44,6 +44,15 @@ const Contact = () => {
           }}
         >
           {/* Contact description */}
+          If you encounter any challenges while searching for your favorite
+          restaurant or cuisine, or if you encounter any issues while using our
+          platform, please do not hesitate to reach out to us. We are here to
+          assist you and ensure that your dining experience is as delightful as
+          possible. Your feedback and inquiries are invaluable to us, and our
+          dedicated support team is ready to assist you in any way we can. Don't
+          hesitate to get in touch; we're just a message or call away. Your
+          satisfaction is our priority, and we look forward to serving you
+          better. Thank you for choosing Dining Delight!
         </p>
         {/* Table for displaying contact details */}
         <TableContainer component={Paper} sx={{ mt: 3 }}>
