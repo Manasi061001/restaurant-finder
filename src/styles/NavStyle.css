@@ -1,0 +1,37 @@
+/* CSS for the .nav-menu class, which styles the navigation menu */
+.nav-menu {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* CSS for list items within the .nav-menu */
+.nav-menu li {
+    margin: 0px 20px; /* Adds horizontal spacing between menu items */
+}
+
+/* CSS for links within list items of the .nav-menu */
+.nav-menu li a {
+    color: white; /* Sets text color to white */
+    text-decoration: none; /* Removes underlines from links */
+    font-size: 20px; /* Sets font size for menu items */
+    margin-right: 10px; /* Adds right margin to menu items */
+}
+
+/* CSS for the .mobile-nav class, which styles the mobile navigation menu */
+.mobile-nav {
+    list-style: none; /* Removes list bullet points for mobile menu */
+}
+
+/* CSS for list items within the .mobile-nav */
+.mobile-nav li {
+    margin-top: 40px; /* Adds top margin to mobile menu items */
+}
+
+/* CSS for links within list items of the .mobile-nav */
+.mobile-nav li a {
+    text-decoration: none; /* Removes underlines from links */
+    font-size: 1.4rem; /* Sets font size for mobile menu items */
+    color: black; /* Sets text color to black */
+}

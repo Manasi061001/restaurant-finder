@@ -1,0 +1,11 @@
+/* Apply CSS reset to remove default margins, paddings, and adjust box sizing */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set the font family for the entire body of the document */
+body {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
