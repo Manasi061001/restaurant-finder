@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/restaurant-finder/static/css/main.aecc4586.css",
-    "main.js": "/restaurant-finder/static/js/main.92951c01.js",
+    "main.js": "/restaurant-finder/static/js/main.1de51909.js",
     "static/js/787.252c5a3f.chunk.js": "/restaurant-finder/static/js/787.252c5a3f.chunk.js",
     "static/media/indian.jpg": "/restaurant-finder/static/media/indian.673b9a5b733ea3ac4a10.jpg",
     "static/media/banner.jpg": "/restaurant-finder/static/media/banner.8230e32b916932315a28.jpg",
@@ -11,11 +11,11 @@
     "static/media/restaurant.jpg": "/restaurant-finder/static/media/restaurant.0feb0b3bfbfd4f51d5d0.jpg",
     "index.html": "/restaurant-finder/index.html",
     "main.aecc4586.css.map": "/restaurant-finder/static/css/main.aecc4586.css.map",
-    "main.92951c01.js.map": "/restaurant-finder/static/js/main.92951c01.js.map",
+    "main.1de51909.js.map": "/restaurant-finder/static/js/main.1de51909.js.map",
     "787.252c5a3f.chunk.js.map": "/restaurant-finder/static/js/787.252c5a3f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.aecc4586.css",
-    "static/js/main.92951c01.js"
+    "static/js/main.1de51909.js"
   ]
 }
